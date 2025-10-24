@@ -1,3 +1,5 @@
+// ヘッダー
+
 function Header() {
   return (
     <header className="w-full border-b border-gray-300">

@@ -1,3 +1,5 @@
+// フッター
+
 function Footer() {
   return (
     <footer className="mt-auto w-full border-t border-gray-300 **:text-gray-500">
